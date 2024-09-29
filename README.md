@@ -1,13 +1,13 @@
-# First_project
+# fanxu_template
 Data engineering individual project #1
 
-[![Install](https://github.com/nogibjj/First_project/actions/workflows/install.yml/badge.svg)](https://github.com/nogibjj/First_project/actions/workflows/install.yml)
+[![Install](https://github.com/nogibjj/fanxu_template/actions/workflows/install.yml/badge.svg)](https://github.com/nogibjj/fanxu_template/actions/workflows/install.yml)
 
-[![Lint](https://github.com/nogibjj/First_project/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/First_project/actions/workflows/lint.yml)
+[![Lint](https://github.com/nogibjj/fanxu_template/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/fanxu_template/actions/workflows/lint.yml)
 
-[![Test](https://github.com/nogibjj/First_project/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/First_project/actions/workflows/test.yml)
+[![Test](https://github.com/nogibjj/fanxu_template/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/fanxu_template/actions/workflows/test.yml)
 
-[![Format](https://github.com/nogibjj/First_project/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/First_project/actions/workflows/format.yml)
+[![Format](https://github.com/nogibjj/fanxu_template/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/fanxu_template/actions/workflows/format.yml)
 
 
 Requirements
